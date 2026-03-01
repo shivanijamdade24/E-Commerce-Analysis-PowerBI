@@ -1,4 +1,4 @@
-📊 Superstore Sales Analysis – Power BI Project
+📊 E-Commerce Data Analysis – Power BI Project
 Project Overview
 This project analyses retail sales data using Power BI to evaluate business performance, profitability, regional trends, and the impact of discounts. The goal is to generate actionable business insights through interactive dashboards.
 
